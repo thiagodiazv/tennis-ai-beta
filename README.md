@@ -38,6 +38,9 @@ Se o vídeo mostrar outras pessoas, envie só se elas concordarem.
 O app avisa no **Início** quando há versão nova. Instale a nova versão por cima da antiga: suas sessões ficam
 guardadas.
 
+Ao atualizar, abra o arquivo **com o número da versão nova** (por exemplo `tennis-ai-0.5.0.apk`). Os arquivos de
+versões antigas que ficaram na pasta **Downloads** podem ser apagados.
+
 ## Privacidade
 
 - Nada sai do seu celular sem você tocar em **Enviar**.
