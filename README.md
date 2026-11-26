@@ -45,3 +45,5 @@ versões antigas que ficaram na pasta **Downloads** podem ser apagados.
 
 - Nada sai do seu celular sem você tocar em **Enviar**.
 - O app só usa a internet para ver se há versão nova.
+
+Detalhes: [política de privacidade](PRIVACIDADE.md).
