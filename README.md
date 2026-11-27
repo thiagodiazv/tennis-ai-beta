@@ -24,6 +24,8 @@ a melhorar.
 
 - Coloque o celular no tripé ou no alambrado, atrás da linha de fundo, um pouco alto.
 - Use a lente 0,5×, com a quadra inteira na imagem.
+- Com Galaxy Watch: use o relógio **no pulso da mão que segura a raquete**, bem preso. Na outra mão ele quase
+  não sente os golpes. Canhoto? Marque em Perfil → Editar.
 - Sem relógio: use "Importar vídeo" ou "Sem relógio" na Nova sessão.
 
 ## Mandar feedback
@@ -37,6 +39,10 @@ Se o vídeo mostrar outras pessoas, envie só se elas concordarem.
 
 O app avisa no **Início** quando há versão nova. Instale a nova versão por cima da antiga: suas sessões ficam
 guardadas.
+
+**Instalou a versão 0.5.0 ou anterior?** A 0.6.0 não instala por cima delas (mudou a assinatura do app).
+Desinstale o Tennis AI antigo e instale o novo. Desinstalar apaga as sessões do app, mas os seus vídeos continuam
+na galeria: é só importar de novo ("Importar vídeo"). Isso só acontece uma vez.
 
 Ao atualizar, abra o arquivo **com o número da versão nova** (por exemplo `tennis-ai-0.5.0.apk`). Os arquivos de
 versões antigas que ficaram na pasta **Downloads** podem ser apagados.
